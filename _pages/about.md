@@ -13,4 +13,4 @@ I received my Bachelor's degrees with First-Class Honours in Computer Science an
 
 You can find my CV here: [Yi Ji's Curriculum Vitae](../assets/CV.pdf).
 
-[E-mail](yiji@link.cuhk.edu.hk) / [Github](https://github.com/jasonyji) / [WeChat](../image/wechat.jpg) / [LinkedIn](https://www.linkedin.com/in/yi-ji-b45ab31ab/)
+[E-mail](mailto:yiji@link.cuhk.edu.hk) / [Github](https://github.com/jasonyji) / [WeChat](../image/wechat.jpg) / [LinkedIn](https://www.linkedin.com/in/yi-ji-b45ab31ab/)
