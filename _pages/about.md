@@ -12,3 +12,5 @@ I am an incoming Ph.D. Student in Quantitative Marketing at The University of Ho
 I received my Bachelor's degrees with First-Class Honours in Computer Science and Business Administration from The Chinese University of Hong Kong, supervised by [Prof. Chi-Wing Fu](https://www.cse.cuhk.edu.hk/~cwfu/) and [Prof. Yi-Shan Lee](https://sites.google.com/view/yi-shanlee).
 
 You can find my CV here: [Yi Ji's Curriculum Vitae](../assets/CV.pdf).
+
+Contact: [WeChat](../images/wechat.jpg)
