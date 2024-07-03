@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Yi Ji's Personal Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yi Ji"
 description              : &description "personal description"
 url                      : https://jasonyji.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -28,7 +28,7 @@ author:
   location         : "Hong Kong"
   employer         : "The University of Hong Kong"
   uri              : # URL
-  email            : "yiji@link.cuhk.edu.hk" 
+  email            : "jiyi96042@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
