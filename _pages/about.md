@@ -13,4 +13,4 @@ I received my Bachelor's degrees with First-Class Honours in Computer Science an
 
 You can find my CV here: [Yi Ji's Curriculum Vitae](../assets/CV.pdf).
 
-[WeChat](../images/wechat.jpg)
+Contact: [WeChat](../images/wechat.jpg)
