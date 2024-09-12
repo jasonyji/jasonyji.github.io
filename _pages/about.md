@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Student in Quantitative Marketing at [The University of Hong Kong (HKU)](https://www.hku.hk/), supervised by [Prof. Shan Huang](https://www.shanhhuang.com/). I am interested in Quantitative Marketing, Computational Social Science, and Human-AI Interaction. I received my Bachelor's degrees with First Class Honours in Computer Science and Business Administration from [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html). You can find my CV [here](../assets/CV.pdf).
+I am a Ph.D. Student in Quantitative Marketing at [The University of Hong Kong (HKU)](https://www.hku.hk/), supervised by [Prof. Shan Huang](https://www.shanhhuang.com/). I am interested in Computational Social Science and Human-AI Interaction. I received my Bachelor's degrees with First Class Honours in Computer Science and Business Administration from [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html). You can find my CV [here](../assets/CV.pdf).
 
 Contact: [WeChat](../images/wechat.jpg)
