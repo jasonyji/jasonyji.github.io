@@ -5,7 +5,7 @@ permalink: /experiences/
 author_profile: true
 ---
 
-# Professional Experiences
+Professional Experiences
 ---
 * AI Engineer Internship @ Datawake <span style="float: right;">Sep 2023 - Present</span>
   * Technical Department
@@ -14,7 +14,7 @@ author_profile: true
 * Data Analyst Internship @ Tencent <span style="float: right;">Summer 2021</span>
   * Platform & Content Group (PCG)
 
-# Research Experiences
+Research Experiences
 ---
 * Research Assistant @ HKU Business School <span style="float: right;">Sep 2023 - Aug 2024</span>
   * Supervisor: Prof. Shan Huang

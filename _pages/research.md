@@ -5,6 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
+Working Papers
+---
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4860857" target="_blank">**Algorithmic vs. Friend-based Recommendations in Shaping Novel Content Engagement: A Large-scale Field Experiment**</a> \
 with <a href="https://www.shanhhuang.com/" target="_blank">Shan Huang</a> \
 *presented at <a href="https://www.hkubs.hku.hk/eventsite/2024-ciip-conference/" target="_blank">China India Insights Program (CIIP) 2024</a>, <a href="https://ec24.sigecom.org/" target="_blank">The Twenty-Fouth ACM Conference of Economics and Computation (EC'24)</a>* \
