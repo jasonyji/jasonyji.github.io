@@ -11,5 +11,29 @@ I am a first-year Ph.D. Student in Quantitative Marketing at [The University of 
 
 You can find my CV [here](../assets/CV.pdf).
 
-## Contact
+Education
+======
+* Ph.D. in Marketing, The University of Hong Kong, 2024 - Present
+* B.B.A. in Integrated Business Administration, The Chinese University of Hong Kong, 2019 - 2024
+* B.S. in Computer Science, The Chinese University of Hong Kong, 2019 - 2023
+
+Work experience
+======
+* Datawake
+  * Position: AI Engineer Internship (Part-time)
+  * Location: Shenzhen, China
+  * Duration: Sep 2023 - Present
+
+* WeChat/Weixin
+  * Position: Research Internship
+  * Location: Guangzhou, China
+  * Duration: Sep 2023 - Aug 2024
+
+* Tencent
+  * Position: Data Analyst Internship
+  * Location: Shenzhen, China
+  * Duration: Summer 2020
+
+Contact
+======
 [WeChat](../images/wechat.jpg)
