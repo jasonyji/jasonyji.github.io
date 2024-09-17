@@ -8,7 +8,7 @@ author_profile: true
 ## Skills
 ---
 **Languages** \
-Madarin (native), English (fluent), Catonese (intermediate)
+Mandarin (native), English (fluent), Cantonese (intermediate)
 
 **Programming Languages** \
 Python, C, C++, Java, JavaScript, SQL, COBOL, Perl, ML
