@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yi Ji's Personal Homepage"
+title                    : "Yi Ji"
 title_separator          : "-"
 name                     : &name "Yi Ji"
 description              : &description "personal description"
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : yi-ji-b45ab31ab
+  linkedin         : yi-ji-mkt
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
