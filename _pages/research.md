@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Yi Ji"
+title: "Research"
 permalink: /research/
 author_profile: true
 ---
