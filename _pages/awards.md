@@ -5,7 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 
-Scholarships and Awards
+## Scholarships, Honors and Awards
 ---
 * Ms. Chan Yee-chun Academic Scholarship (HK$10,000), New Asia College <span style="float: right;">2024</span>  
 * FBE PhD Scholarship, University of Hong Kong (HK$42,100) <span style="float: right;">2024</span>  

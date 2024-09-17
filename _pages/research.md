@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-Working Papers
+## Working Papers
 ---
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4860857" target="_blank">**Algorithmic vs. Friend-based Recommendations in Shaping Novel Content Engagement: A Large-scale Field Experiment**</a> \
 with <a href="https://www.shanhhuang.com/" target="_blank">Shan Huang</a> \
