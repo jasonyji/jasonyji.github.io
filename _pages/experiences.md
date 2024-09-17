@@ -35,7 +35,7 @@ Summer Research Internship <span style="float: right;">Summer 2022</span>
 
 **China India Insights Program (CIIP) 2024**, HKU Business School, Hong Kong <span style="float: right;">Jun 2024</span>
 
-**The Third HK Quant Marketing Mini-Conference**, CUHK Business School <span style="float: right;">May 2024</span>
+**The Third HK Quant Marketing Mini-Conference**, CUHK Business School, Hong Kong <span style="float: right;">May 2024</span>
 
 ## Workshops and Summer Camps
 ---
