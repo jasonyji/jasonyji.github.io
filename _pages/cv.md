@@ -11,6 +11,26 @@ redirect_from:
 
 Education
 ======
+* Ph.D. in Marketing, The University of Hong Kong, 2024 - Present
+* B.B.A., The Chinese University of Hong Kong, 2019 - 2024
+* B.S. in Computer Science, The Chinese University of Hong Kong, 2019 - 2023
+
+Work Experiences
+======
+* AI Engineer Internship @ Datawake, Sep 2023 - Present
+* Research Internship @ WeChat/Weixin, Sep 2023 - Aug 2024
+* Data Analyst Internship @ Tencent, Summer 2021
+
+Selected Scholarships and Awards
+======
+* FBE PhD Entrance Scholarship, 2024
+* Postgraduate Scholarship, 2024
+* HKSAR Government Scholarship, 2023
+* Outstanding Academic Performance, 2022, 2023
+* Dean's List, 2020, 2021, 2022, 2023
+
+<!-- Education
+======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
 * B.S. in GitHub, GitHub University, 2012
@@ -61,4 +81,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

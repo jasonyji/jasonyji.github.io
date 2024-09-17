@@ -11,26 +11,6 @@ I am a first-year Ph.D. Student in Quantitative Marketing at [The University of 
 
 You can find my CV [here](../assets/CV.pdf).
 
-Education
+<!-- Contact
 ======
-* Ph.D. in Marketing, The University of Hong Kong, 2024 - Present
-* B.B.A., The Chinese University of Hong Kong, 2019 - 2024
-* B.S. in Computer Science, The Chinese University of Hong Kong, 2019 - 2023
-
-Work Experiences
-======
-* AI Engineer Internship (Part-time) @ Datawake, Sep 2023 - Present
-* Research Internship @ WeChat/Weixin, Sep 2023 - Aug 2024
-* Data Analyst Internship @ Tencent, Summer 2020
-
-Selected Scholarships and Awards
-======
-* FBE PhD Entrance Scholarship, 2024
-* Postgraduate Scholarship, 2024
-* HKSAR Government Scholarship, 2023
-* Outstanding Academic Performance, 2022, 2023
-* Dean's List, 2020, 2021, 2022, 2023
-
-Contact
-======
-[WeChat](../images/wechat.jpg)
+[WeChat](../images/wechat.jpg) -->
