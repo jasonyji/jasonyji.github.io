@@ -23,9 +23,9 @@ Work Experiences
 * Research Internship @ WeChat/Weixin, Sep 2023 - Aug 2024
 * Data Analyst Internship @ Tencent, Summer 2020
 
-Selected scholarships and Awards
+Selected Scholarships and Awards
 ======
-* FBE Entrance Scholarship, 2024
+* FBE PhD Entrance Scholarship, 2024
 * Postgraduate Scholarship, 2024
 * HKSAR Government Scholarship, 2023
 * Outstanding Academic Performance, 2022, 2023
