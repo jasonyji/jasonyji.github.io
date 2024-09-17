@@ -12,15 +12,15 @@ I am a first-year Ph.D. Student in Quantitative Marketing at <a href="https://ww
 You can find my CV <a href="../files/CV.pdf" target="_blank">here</a>.
 
 Research Interests
-======
+---
 Quantitative Marketing, Computational Social Science, Human-AI Interaction
 
 Education
-======
+---
 * Ph.D. in Marketing, The University of Hong Kong, 2024 - Present
 * B.B.A., The Chinese University of Hong Kong, 2019 - 2024
 * B.S. in Computer Science, The Chinese University of Hong Kong, 2019 - 2023
 
 Contact
-======
+---
 [WeChat](../images/wechat.jpg)
