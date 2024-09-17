@@ -28,3 +28,29 @@ Research Assistant (Part-time) <span style="float: right;">Dec 2021 - Aug 2024</
 **CUHK CSE**, Sha Tin, Hong Kong \
 Final Year Project <span style="float: right;">Jun 2022 - May 2023</span> \
 Summer Research Internship <span style="float: right;">Summer 2022</span>
+
+## Conference Attendance
+---
+**The Twenty-Fifth ACM Conference on Economics and Computation (EC'24)**, Yale University, U.S.A. <span style="float: right;">Jul 2024</span>
+
+**China India Insights Program (CIIP) 2024**, HKU Business School, Hong Kong <span style="float: right;">Jun 2024</span>
+
+**The Third HK Quant Marketing Mini-Conference**, CUHK Business School <span style="float: right;">May 2024</span>
+
+## Workshops and Summer Camps
+---
+**PhD Recruitment Summer Camp**, HKU Business School, Hong Kong <span style="float: right;">Jul 2023</span> \
+Marketing Area \
+Successfully passed the committee interview and received a conditional offer.
+
+**PhD Recruitment Summer Workshop**, CUHK Business School, Hong Kong <span style="float: right;">Jun 2023</span> \
+Marketing Area \
+No interview was arranged.
+
+**PhD Recruitment Summer Workshop**, CUHK Business School, Hong Kong <span style="float: right;">Jun 2023</span> \
+Management Information System Area \
+Successfully passed the committee interview and received a conditional offer.
+
+**PhD Early Round Admission**, CUHK CSE, Hong Kong <span style="float: right;">Jun 2022</span> \
+Machine Learning and Artificial Intelligence Area \
+Successfully passed the committee interview, but voluntarily withdrew from the application process.
