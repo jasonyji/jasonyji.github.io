@@ -41,16 +41,16 @@ Summer Research Internship <span style="float: right;">Summer 2022</span>
 ---
 **PhD Recruitment Summer Camp**, HKU Business School, Hong Kong <span style="float: right;">Jul 2023</span> \
 Marketing Area \
-Successfully passed the committee interview and received a conditional offer.
+*Successfully passed the committee interview and received a conditional offer.*
 
 **PhD Recruitment Summer Workshop**, CUHK Business School, Hong Kong <span style="float: right;">Jun 2023</span> \
 Marketing Area \
-No interview was arranged.
+*No interview was arranged.*
 
 **PhD Recruitment Summer Workshop**, CUHK Business School, Hong Kong <span style="float: right;">Jun 2023</span> \
 Management Information System Area \
-Successfully passed the committee interview and received a conditional offer.
+*Successfully passed the committee interview and received a conditional offer.*
 
 **PhD Early Round Admission**, CUHK CSE, Hong Kong <span style="float: right;">Jun 2022</span> \
 Machine Learning and Artificial Intelligence Area \
-Successfully passed the committee interview, but voluntarily withdrew from the application process.
+*Successfully passed the committee interview, but voluntarily withdrew from the application process.*
