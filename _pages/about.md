@@ -17,19 +17,19 @@ Education
 * B.B.A., The Chinese University of Hong Kong, 2019 - 2024
 * B.S. in Computer Science, The Chinese University of Hong Kong, 2019 - 2023
 
-Work experiences
+Work Experiences
 ======
-* AI Engineer Internship (Part-time) @ Datawake
-  * Location: Shenzhen, China
-  * Duration: Sep 2023 - Present
+* AI Engineer Internship (Part-time) @ Datawake, Sep 2023 - Present
+* Research Internship @ WeChat/Weixin, Sep 2023 - Aug 2024
+* Data Analyst Internship @ Tencent, Summer 2020
 
-* Research Internship @ WeChat/Weixin
-  * Location: Guangzhou, China
-  * Duration: Sep 2023 - Aug 2024
-
-* Data Analyst Internship @ Tencent
-  * Location: Shenzhen, China
-  * Duration: Summer 2020
+Selected scholarships and Awards
+======
+* FBE Entrance Scholarship, 2024
+* Postgraduate Scholarship, 2024
+* HKSAR Government Scholarship, 2023
+* Outstanding Academic Performance, 2022, 2023
+* Dean's List, 2020, 2021, 2022, 2023
 
 Contact
 ======
