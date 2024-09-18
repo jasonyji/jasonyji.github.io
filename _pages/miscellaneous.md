@@ -22,6 +22,6 @@ Python, C, C++, Java, JavaScript, SQL, COBOL, Perl, ML
 **Software** \
 LaTeX, MS Office, Stata, Matlab, PyTorch, oTree, MERN Stack
 
-## Interests
+## Hobbies
 ---
 Hiking, Travelling
