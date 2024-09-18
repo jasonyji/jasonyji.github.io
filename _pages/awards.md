@@ -20,4 +20,3 @@ author_profile: true
 * Silver Award for Outstanding Academic Performance (HK$20,000), Chinese University of Hong Kong <span style="float: right;">2023</span>  
 * Bronze Award for Outstanding Academic Performance (HK$10,000), Chinese University of Hong Kong <span style="float: right;">2022</span>  
 * Undergraduate Summer Research Grant (HK$10,000), Chinese University of Hong Kong <span style="float: right;">2022</span>
-* Admission Scholarship (CNY15,000), Suzhou Experimental Middle School <span style="float: right;">2016</span>
