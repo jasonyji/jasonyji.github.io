@@ -5,12 +5,15 @@ permalink: /miscellaneous/
 author_profile: true
 ---
 
-## Courses
+## Doctoral Coursework
 ---
-**24 Fall** \
-Econometric Theory (HKU ECON6005) \
-Microeconomic Theory (HKU ECON6011) \
-Advanced Statistical Inference (HKU STAT6008)
+**Economics**
+* Mathematics for Economics
+* Econometric Theory
+* Microeconomic Theory
+
+**Statistics**
+* Advanced Statistical Inference
 
 ## Skills
 ---
