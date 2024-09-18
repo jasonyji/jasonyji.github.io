@@ -8,8 +8,9 @@ author_profile: true
 ## Courses
 ---
 **24 Fall** \
-Microeconomic Theory (HKU ECON6011), Econometric Theory (HKU ECON6005), Advanced Statistical Inference (HKU STAT6008)
-
+Microeconomic Theory (HKU ECON6011) \
+Econometric Theory (HKU ECON6005) \
+Advanced Statistical Inference (HKU STAT6008)
 
 ## Skills
 ---
