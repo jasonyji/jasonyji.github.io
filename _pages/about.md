@@ -21,11 +21,11 @@ Quantitative Marketing, Computational Social Science, Human-AI Interaction
 ## Education
 ---
 **The University of Hong Kong**, Pok Fu Lam, Hong Kong Island, Hong Kong \
-*Ph.D. in Quantitative Marketing* <span style="float: right;">2024 - Present</span> 
+Ph.D. in Quantitative Marketing <span style="float: right;">2024 - Present</span> 
 
 **The Chinese University of Hong Kong**, Sha Tin, New Territories, Hong Kong \
-*B.B.A. in Interated Business Administration, with First-Class Honours* <span style="float: right;">2019 - 2024</span> \
-*B.S. in Computer Science, with First-Class Honours* <span style="float: right;">2019 - 2023</span>  
+B.B.A. in Interated Business Administration, with First-Class Honours <span style="float: right;">2019 - 2024</span> \
+B.S. in Computer Science, with First-Class Honours <span style="float: right;">2019 - 2023</span>  
 
 ## Contact
 ---
