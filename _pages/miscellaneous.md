@@ -8,8 +8,8 @@ author_profile: true
 ## Courses
 ---
 **24 Fall** \
-Microeconomic Theory (HKU ECON6011) \
 Econometric Theory (HKU ECON6005) \
+Microeconomic Theory (HKU ECON6011) \
 Advanced Statistical Inference (HKU STAT6008)
 
 ## Skills
@@ -22,6 +22,11 @@ Python, C, C++, Java, JavaScript, SQL, COBOL, Perl, ML
 
 **Software** \
 LaTeX, MS Office, Stata, Matlab, PyTorch, oTree, MERN Stack
+
+## Extra-Curricular Activities
+---
+**CUHK Three Heart Club** \
+Executive Committee Member <span style="float: right;">Jan 2021 - Feb 2022</span>
 
 ## Hobbies
 ---
