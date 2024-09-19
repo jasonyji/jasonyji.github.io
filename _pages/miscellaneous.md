@@ -21,7 +21,7 @@ author_profile: true
 Mandarin (native), English (fluent), Cantonese (intermediate)
 
 **Programming Languages** \
-Python, C, C++, Java, JavaScript, SQL, COBOL, Perl, ML
+Python, C, C++, Java, JavaScript, COBOL, Perl, ML, SQL, R
 
 **Software** \
 LaTeX, MS Office, Stata, Matlab, PyTorch, oTree, MERN Stack
