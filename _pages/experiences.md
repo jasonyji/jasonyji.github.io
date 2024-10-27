@@ -33,11 +33,11 @@ Summer Research Internship <span style="float: right;">Summer 2022</span>
 ---
 **The Twenty-Fifth ACM Conference on Economics and Computation (EC'24)**, Yale University, U.S.A. <span style="float: right;">Jul 2024</span>
 
-**China India Insights Program (CIIP) 2024** *(presented by co-author)*, University of Hong Kong, Hong Kong <span style="float: right;">Jun 2024</span>
-
 ## Conference Attendance
 ---
 **The 3rd HK Quant Marketing Mini-Conference**, Chinese University of Hong Kong, Hong Kong <span style="float: right;">May 2024</span>
+
+**China India Insights Program (CIIP) 2024**, University of Hong Kong, Hong Kong <span style="float: right;">Jun 2024</span>
 
 ## Workshops and Summer Camps
 ---
