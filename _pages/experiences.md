@@ -7,8 +7,11 @@ author_profile: true
 
 ## Professional Experiences
 ---
+**Tencent**, Shenzhen, China \
+Research Internship <span style="float: right;">Commencing Feb 2025</span>
+
 **Datawake**, Shenzhen, China \
-AI Engineer Internship <span style="float: right;">Sep 2023 - Present</span>
+Data Scientist <span style="float: right;">Sep 2023 - Present</span>
 
 **WeChat/Weixin**, Guangzhou, China \
 Research Internship <span style="float: right;">Sep 2023 - Aug 2024</span>
@@ -20,7 +23,7 @@ Data Analyst Internship <span style="float: right;">Summer 2021</span>
 ---
 **HKU Business School**, Pok Fu Lam, Hong Kong \
 Research Assistant <span style="float: right;">Sep 2023 - Aug 2024</span> \
-HKU Summer Research Programme 2023 <span style="float: right;">Summer 2023</span>
+HKU Summer Research Programme <span style="float: right;">Summer 2023</span>
 
 **CUHK Business School**, Sha Tin, Hong Kong \
 Research Assistant (Part-time) <span style="float: right;">Dec 2021 - Aug 2024</span>
@@ -29,7 +32,7 @@ Research Assistant (Part-time) <span style="float: right;">Dec 2021 - Aug 2024</
 Final Year Project <span style="float: right;">Jun 2022 - May 2023</span> \
 Summer Research Internship <span style="float: right;">Summer 2022</span>
 
-## Conference Presentations
+## Conference Presentation
 ---
 **The Twenty-Fifth ACM Conference on Economics and Computation (EC'24)**, Yale University, U.S.A. <span style="float: right;">Jul 2024</span>
 

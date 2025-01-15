@@ -12,13 +12,17 @@ author_profile: true
 * Econometric Theory
 * Microeconomic Theory
 
+**Marketing**
+* Empirical Marketing Models
+* Structural Models and Empirical Methods
+
 **Statistics**
 * Advanced Statistical Inference
 
 ## Skills
 ---
 **Languages** \
-Mandarin (native), English (fluent), Cantonese (intermediate)
+Mandarin (native), English (fluent), Cantonese (fluent)
 
 **Programming Languages** \
 Python, C, C++, Java, JavaScript, COBOL, Perl, ML, SQL, R
