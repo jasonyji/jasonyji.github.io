@@ -21,20 +21,20 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Yi Ji"
+  avatar           : "profile.jpg"
+  name             : "Yi Ji (計懿)"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in Quant Marketing"
   location         : "Hong Kong"
   employer         : "The University of Hong Kong"
-  uri              : # URL
-  email            : "jiyi96042@gmail.com" 
+  uri              : "https://www.hkubs.hku.hk/people/yi-ji/"
+  email            : "yi-ji-mkt@connect.hku.hk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : # URL
   impactstory      : # URL
-  orcid            : # URL
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0005-2461-1994"
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
