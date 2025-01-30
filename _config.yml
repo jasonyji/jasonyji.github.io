@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yi Ji"
+title                    : "Yi Ji (計懿)"
 title_separator          : "-"
-name                     : &name "Yi Ji"
+name                     : &name "Yi Ji (計懿)"
 description              : &description "personal description"
 url                      : https://jasonyji.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
