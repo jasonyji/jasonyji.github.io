@@ -3,17 +3,17 @@ main:
   - title: "Home"
     url: /
 
-  - title: "Research"
-    url: /research/
+  # - title: "Research"
+    # url: /research/
 
-  - title: "Awards"
-    url: /awards/
+  # - title: "Awards"
+  #   url: /awards/
 
-  - title: "Experiences"
-    url: /experiences/
+  # - title: "Experiences"
+  #   url: /experiences/
 
-  - title: "Miscellaneous"
-    url: /miscellaneous/
+  # - title: "Miscellaneous"
+  #   url: /miscellaneous/
   
   # - title: "Publications"
   #   url: /publications/
