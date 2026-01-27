@@ -3,8 +3,8 @@ main:
   - title: "Home"
     url: /
 
-  # - title: "Research"
-    # url: /research/
+  - title: "Research"
+    url: /research/
 
   # - title: "Awards"
   #   url: /awards/
@@ -30,8 +30,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  # - title: "CV"
-  #   url: /cv/
+  - title: "CV"
+    url: /files/CV.pdf
     
   # - title: "Guide"
   #   url: /markdown/
