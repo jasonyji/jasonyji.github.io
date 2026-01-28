@@ -19,10 +19,10 @@ with <a href="https://www.shanhhuang.com/" target="_blank">Shan Huang</a> and <a
 
 ## Work in Progress
 
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5822963" target="_blank">LLMs in Product Selection for Small E-commerce</a> \
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5822963" target="_blank">**LLMs in Product Selection for Small E-commerce**</a> \
 with <a href="https://www.shanhhuang.com/" target="_blank">Shan Huang</a> \
 *- The early version of this work was presented at <a href="https://meetings.informs.org/wordpress/annual/?_gl=1%2A4l1ytl%2A_gcl_au%2AMjEyMDQ1MTA3NC4xNzY5NTI5NTIy">INFORMS Annual Meeting 2025</a>.* \
 **Abstract**: Product selection is a persistent challenge for small businesses. With limited data and technical expertise, these firms often rely on intuition rather than evidence. Recent advances in large language models (LLMs) offer a promising alternative for supporting data-driven decisions in resource-constrained settings. We propose an LLM-based product selection framework that emphasizes comparative rather than single-item prediction. We show that LLMs perform poorly without contextual references, but that constructing reference groups and enabling comparative reasoning substantially improves predictive accuracy. However, larger reference groups reduce performance, and different grouping strategies lead to meaningfully different outcomes. Our approach significantly outperforms competitive machine learning models in predicting product-selection outcomes. These findings provide practical guidance for small businesses making product decisions and offer new insights into how LLMs leverage relational information in decision-making tasks.
 
-LLM-based Digital Twins in Market Research \
+**LLM-based Digital Twins in Market Research** \
 with <a href="https://www.shanhhuang.com/" target="_blank">Shan Huang</a>, <a href="https://tongwang-ai.github.io" target="_blank">Tong Wang</a>, and Jinyong Ma (ByteDance)
