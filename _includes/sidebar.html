@@ -3,6 +3,18 @@
 {% if page.author_profile or layout.author_profile or page.sidebar %}
   <div class="sidebar sticky">
   {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
+  {% if page.url == "/" %}
+    <div class="sidebar__clustrmaps"
+     style="margin-top:20px; min-height:300px; overflow:hidden;">
+    <div style="transform: scale(0.7); transform-origin: top left;">
+      <script
+        type="text/javascript"
+        id="clstr_globe"
+        src="//clustrmaps.com/globe.js?d=rdzy_lleedwP3_laTMBoWIXdZbQaTJkQOjsg6gXUTX4">
+      </script>
+    </div>
+  </div>
+  {% endif %}
   {% if page.sidebar %}
     {% for s in page.sidebar %}
       {% if s.image %}
