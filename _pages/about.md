@@ -11,7 +11,7 @@ redirect_from:
 ## About Me
 Hi, I am Yi Ji (計懿), a second-year Ph.D. student in Quantitative Marketing at the <a href="https://www.hku.hk/" target="_blank">University of Hong Kong</a>, where I am fortunate to be advised by <a href="https://www.shanhhuang.com/" target="_blank">Prof. Shan Huang</a>. 
 
-I obtained my bachelor's degrees in Computer Science and Business Economics from the <a href="https://www.cuhk.edu.hk/english/index.html" target="_blank">Chinese University of Hong Kong</a>, where I was supervised by <a href="https://www.cse.cuhk.edu.hk/~cwfu/" target="_blank">Prof. Chi-Wing Fu, Philip</a>, and worked closely with <a href="https://sites.google.com/view/yi-shanlee" target="_blank">Prof. Yi-Shan Lee</a>. 
+I obtained my bachelor's degrees in Computer Science and Business Economics from the <a href="https://www.cuhk.edu.hk/english/index.html" target="_blank">Chinese University of Hong Kong</a>, where I was supervised by <a href="https://www.cse.cuhk.edu.hk/~cwfu/" target="_blank">Prof. Chi-Wing Fu, Philip</a> and <a href="https://sites.google.com/view/yi-shanlee" target="_blank">Prof. Yi-Shan Lee</a>. 
 I am also proud to be an alumnus of <a href="https://www.na.cuhk.edu.hk/" target="_blank">New Asia College</a>.
 
 My current research interests focus on AI Applications in Marketing, Economics of AI, and Computational Social Science.
