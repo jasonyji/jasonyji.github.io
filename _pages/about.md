@@ -17,7 +17,7 @@ I am also proud to be an alumnus of <a href="https://www.na.cuhk.edu.hk/" target
 My current research interests focus on AI Applications in Marketing, Economics of AI, and Computational Social Science.
 Methodologically, I leverage large language models (LLMs), machine learning, and A/B testing to study data-driven decision-making and market behavior.
 
-My research aims to generate insights that are usable and impactful for practitioners. I actively communicate and work closely with practitioners from Google, ByteDance, Tencent, as well as small e-commerce firms.
+My research aims to generate insights that are usable and impactful for practitioners. I actively collaborate and communicate with practitioners from leading tech companies—including Google, ByteDance, and Tencent—as well as emerging start-ups.
 
 Feel free to contact me at yi-ji-mkt [at] connect [dot] hku [dot] hk or jy [at] datawake [dot] ai. 
 
@@ -100,8 +100,8 @@ Feel free to contact me at yi-ji-mkt [at] connect [dot] hku [dot] hk or jy [at] 
 
 ---
 ## Selected Scholarships and Awards
-Postgraduate Scholarships, University of Hong Kong, 2024 \
+Postgraduate Scholarships, University of Hong Kong, 2024 - 2028 \
 FBE PhD Entrance Scholarship, University of Hong Kong, 2024 \
 HKSAR Government Scholarship for Outstanding Performance, HKSAR Education Bureau, 2023 \
-CSE Outstanding Academic Performance, Chinese University of Hong Kong, 2021 - 2023 \
+Outstanding Academic Performance, Chinese University of Hong Kong, 2021 - 2023 \
 Dean’s Honours List, Chinese University of Hong Kong, 2019 - 2023
