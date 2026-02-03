@@ -2,6 +2,7 @@
 layout: archive
 permalink: /
 title: "About"
+seo_title: "Yi Ji (計懿)"
 author_profile: true
 redirect_from: 
   - /about/
