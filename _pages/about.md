@@ -95,7 +95,7 @@ Feel free to contact me at yi-ji-mkt [at] connect [dot] hku [dot] hk or jy [at] 
   </div>
   <div class="industry-details" style="flex: 1 1 auto;">
     <strong>Tencent</strong> · Shenzhen, China · Summer 2021<br>
-    Data Analyst Intern · SRE Group
+    Data Analyst Intern · Big Data Platform
   </div>
 </div>
 
