@@ -2,6 +2,24 @@
    ARCHIVE
    ========================================================================== */
 
+.page__content details {
+  margin: 0.75em 0 1.5em;
+
+  summary {
+    cursor: pointer;
+    color: $link-color;
+    font-weight: bold;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  p {
+    margin-top: 0.75em;
+  }
+}
+
 .archive {
   margin-bottom: 2em;
 

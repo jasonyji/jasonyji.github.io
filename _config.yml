@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Yi Ji (計懿)"
 title_separator          : "-"
 name                     : &name "Yi Ji (計懿)"
-description              : &description "personal description"
+description              : &description "Yi Ji (計懿) is a PhD student in Quantitative Marketing at the University of Hong Kong, researching AI applications in marketing, economics of AI, and computational social science."
 url                      : https://jasonyji.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -126,7 +126,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "profile.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
