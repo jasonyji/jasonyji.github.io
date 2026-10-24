@@ -1,0 +1,23 @@
+{% include base_path %}
+<div class="timeline">
+  <div class="timeline__headers">
+    <span>Education</span>
+    <span>Industry</span>
+  </div>
+{% for item in site.data.experiences %}
+  <div class="timeline__item timeline__item--{{ item.type }}">
+    <div class="timeline__logo">
+      <img src="{{ base_path }}{{ item.logo }}" alt="{{ item.logo_alt }}">
+    </div>
+    <div class="timeline__body">
+      <div class="timeline__meta">
+        <span class="timeline__date">{{ item.date }}</span>
+        <span class="timeline__tag">{% if item.type == "education" %}Education{% else %}Industry{% endif %}</span>
+      </div>
+      <div class="timeline__org"><strong>{{ item.org }}</strong></div>
+      {% for role in item.roles %}{% assign parts = role | split: " · " %}<div class="timeline__role">{% for part in parts %}<span>{{ part }}</span>{% unless forloop.last %} · {% endunless %}{% endfor %}</div>{% endfor %}
+      <div class="timeline__location">{{ item.location }}</div>
+    </div>
+  </div>
+{% endfor %}
+</div>

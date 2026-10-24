@@ -1,0 +1,6 @@
+{% include base_path %}
+<a class="research-card" href="{{ base_path }}{{ include.paper.url }}">
+  <span class="research-card__title">{{ include.paper.title }}</span>
+  <span class="research-card__authors">{{ include.paper.authors | strip_html }}</span>
+  {% if include.paper.status %}<span class="research-status">{{ include.paper.status }}</span>{% endif %}
+</a>

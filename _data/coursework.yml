@@ -1,0 +1,30 @@
+# Doctoral coursework on the Coursework page, grouped by field.
+
+- field: "Economics"
+  courses:
+    - name: "Mathematics for Economics"
+      instructors: '<a href="https://www.hkubs.hku.hk/people/chen-zhao/" target="_blank">Chen Zhao</a>'
+    - name: "Econometric Theory"
+      instructors: '<a href="https://www.hkubs.hku.hk/people/ping-yu/" target="_blank">Ping Yu</a>'
+    - name: "Microeconomic Theory"
+      instructors: '<a href="https://www.hkubs.hku.hk/people/chen-zhao/" target="_blank">Chen Zhao</a> and <a href="https://www.hkubs.hku.hk/people/wing-suen/" target="_blank">Wing Suen</a>'
+    - name: "Applied Econometrics"
+      instructors: '<a href="https://www.hkubs.hku.hk/people/uta-sch%D3%A7nberg/" target="_blank">Uta Schoenberg</a>'
+
+- field: "Marketing"
+  courses:
+    - name: "Empirical Marketing Models"
+      instructors: '<a href="https://www.hkubs.hku.hk/people/junhong-chu/" target="_blank">Junhong Chu</a>'
+    - name: "Structural Models and Empirical Methods"
+      instructors: '<a href="https://www.hkubs.hku.hk/people/hui-li/" target="_blank">Hui Li</a>'
+    - name: "Machine Learning Empowered Business Intelligence"
+      instructors: '<a href="https://www.yodadai.com/" target="_blank">Dai Yao (HKPolyU)</a>'
+      audited: true
+
+- field: "Computer Science and Statistics"
+  courses:
+    - name: "Advanced Natural Language Processing"
+      instructors: '<a href="https://taoyds.github.io/" target="_blank">Tao Yu</a>'
+      website: "https://taoyds.github.io/courses/data8005.html"
+    - name: "Advanced Statistical Inference"
+      instructors: '<a href="https://saasweb.hku.hk/staff/smslee/" target="_blank">Stephen Man Sing Lee</a>'

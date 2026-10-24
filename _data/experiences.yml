@@ -1,0 +1,66 @@
+# Experiences timeline on the home page, listed newest first.
+# type: education | industry
+
+- org: "ByteDance"
+  type: industry
+  location: "Shenzhen, China"
+  date: "Sep 2025 – Present"
+  logo: /images/Logo_of_ByteDance.png
+  logo_alt: "ByteDance logo"
+  roles:
+    - "Research Intern · Applied Research Team"
+
+- org: "Tencent"
+  type: industry
+  location: "Shenzhen, China"
+  date: "Mar – Aug 2025"
+  logo: /images/Logo_of_Tencent.png
+  logo_alt: "Tencent logo"
+  roles:
+    - "Data Science Intern · Advanced Data Group"
+
+- org: "University of Hong Kong (HKU)"
+  type: education
+  location: "Pok Fu Lam, Hong Kong Island, Hong Kong"
+  date: "Sep 2024 – Present"
+  logo: /images/Emblem_of_HKU.jpg
+  logo_alt: "University of Hong Kong emblem"
+  roles:
+    - "Ph.D. in Quantitative Marketing"
+
+- org: "DataWake AI"
+  type: industry
+  location: "Shenzhen, China"
+  date: "Sep 2023 – Present"
+  logo: /images/Logo_of_DataWakeAI.png
+  logo_alt: "DataWake AI logo"
+  roles:
+    - "Data Scientist · Technical Engineering Team"
+
+- org: "WeChat"
+  type: industry
+  location: "Guangzhou, China"
+  date: "Sep 2023 – Sep 2024"
+  logo: /images/Logo_of_WeChat.png
+  logo_alt: "WeChat logo"
+  roles:
+    - "Research Intern · Search and Application Group"
+
+- org: "Tencent"
+  type: industry
+  location: "Shenzhen, China"
+  date: "Summer 2021"
+  logo: /images/Logo_of_Tencent.png
+  logo_alt: "Tencent logo"
+  roles:
+    - "Data Analyst Intern · Big Data Platform"
+
+- org: "Chinese University of Hong Kong (CUHK)"
+  type: education
+  location: "Sha Tin, New Territories, Hong Kong"
+  date: "Sep 2019 – Jul 2024"
+  logo: /images/Emblem_of_CU.png
+  logo_alt: "Chinese University of Hong Kong emblem"
+  roles:
+    - "B.Sc. in Computer Science"
+    - "B.B.A. in Business Economics"

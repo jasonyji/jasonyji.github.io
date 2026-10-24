@@ -1,0 +1,13 @@
+---
+title: "Algorithms vs. Peers in Shaping Engagement with Novel Information"
+section: working
+order: 1
+authors: 'with <a href="https://www.shanhhuang.com/" target="_blank">Shan Huang</a> and Leyu Lin (WeChat)'
+status: "2nd Round Major Revision at Information Systems Research"
+paperurl: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5374344"
+presentations: 'The early version of this work was presented at <a href="https://www.hkubs.hku.hk/eventsite/2024-ciip-conference/" target="_blank">China India Insights Program (CIIP) 2024</a>, <a href="https://ec24.sigecom.org/" target="_blank">The Twenty-Fifth ACM Conference of Economics and Computation (EC''24)</a>, <a href="https://www.terry.uga.edu/events/isms-marketing-science-conference/" target="_blank">INFORMS Marketing Science Conference 2025</a>, <a href="https://sites.google.com/view/cist2025" target="_blank">Conference on Information Systems and Technology (CIST) 2025</a>.'
+figure: /images/research_images/AI_vs_Peers.png
+figure_alt: "Average novelty of articles a user was exposed to and engaged with across experiment groups"
+---
+
+This study identifies the differential impact of algorithmic and friend-based recommendations-the two predominant mechanisms of online content recommendation-on users' engagement with novel information, characterized as diverse and non-redundant. Our analysis focuses on the influence of different content recommended by algorithms versus friends and the role of social influence, specifically the impact of social cues inherent in friend-based recommendations. We designed and conducted a large-scale field experiment on WeChat, involving 2.1 million users. Participants were randomly assigned to one of three groups: a control group that received content recommended by algorithms, a treatment group that viewed content shared by friends with visible social cues (e.g., friends' "likes"), and another treatment group that was exposed to friend-shared content with the social cues hidden. The findings reveal a general preference for less novel content across all groups. However, the presence of social cues significantly mitigated this trend, indicating that social influence can encourage engagement with more novel information. Despite algorithms tending to recommend content of lower novelty, users engage more with novel content when recommended by algorithms than by friends with and without social cues. The study also discovered significant variations in engagement with novel content among users of different genders, ages, and city tiers. These results carry important implications for the design of content recommendation systems and inform policymaking regarding the dissemination of information online.

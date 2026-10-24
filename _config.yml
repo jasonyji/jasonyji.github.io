@@ -108,7 +108,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true      # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
@@ -200,16 +200,10 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  courses:
     output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
+    permalink: /teaching/:path/
+  research:
     output: true
     permalink: /:collection/:path/
 
@@ -234,41 +228,20 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _courses
   - scope:
       path: ""
-      type: teaching
+      type: courses
     values:
-      layout: single
+      layout: course
       author_profile: true
-      share: true
-      comments: true
-  # _publications
+  # _research
   - scope:
       path: ""
-      type: publications
+      type: research
     values:
-      layout: single
+      layout: research
       author_profile: true
-      share: true
-      comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 
 # Sass/SCSS

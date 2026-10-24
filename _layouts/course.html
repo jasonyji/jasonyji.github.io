@@ -1,0 +1,25 @@
+---
+layout: single
+---
+
+{% include base_path %}
+
+<div class="research-detail">
+  <p class="research-detail__authors">Instructor: {{ page.instructor }}</p>
+
+  <p class="research-detail__presentations">{{ page.program }}</p>
+
+  {% if page.responsibilities %}
+    <h2>My Role</h2>
+    <div class="research-detail__abstract">
+      <p>Teaching Assistant: {{ page.responsibilities }}</p>
+    </div>
+  {% endif %}
+
+  <h2>Course Description</h2>
+  <div class="research-detail__abstract">
+    {{ content }}
+  </div>
+
+  <p class="research-detail__back"><a href="{{ base_path }}/teaching/">&larr; Back to Teaching</a></p>
+</div>
