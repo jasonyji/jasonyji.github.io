@@ -7,14 +7,19 @@ layout: single
 <div class="research-detail">
   <p class="research-detail__authors">{{ page.authors }}</p>
 
-  {% if page.status %}<p><span class="research-status">{{ page.status }}</span></p>{% endif %}
+  {% if page.status %}<p><span class="research-status{% if page.section == "publication" %} research-status--published{% elsif page.status contains "Ready" %} research-status--ready{% endif %}">{{ page.status }}</span></p>{% endif %}
 
   {% if page.presentations %}<p class="research-detail__presentations">{{ page.presentations }}</p>{% endif %}
 
-  {% if page.paperurl %}
-    <p><a href="{{ page.paperurl }}" class="btn" style="text-decoration: none;" target="_blank">View Paper</a></p>
+  {% if page.paperurl or page.videourl %}
+    <p>
+      {% if page.paperurl %}<a href="{{ page.paperurl }}" class="btn" style="text-decoration: none;" target="_blank">View Paper</a>{% endif %}
+      {% if page.videourl %}<a href="{{ page.videourl }}" class="btn" style="text-decoration: none;" target="_blank">Watch Talk</a>{% endif %}
+    </p>
   {% endif %}
 
+  {% comment %}Work-in-progress details stay private until the paper is out{% endcomment %}
+  {% if page.section != "wip" %}
   <h2>Abstract</h2>
   <div class="research-detail__abstract">
     {{ content }}
@@ -22,6 +27,7 @@ layout: single
 
   {% if page.figure %}
     <img class="research-detail__figure" src="{{ base_path }}{{ page.figure }}" alt="{{ page.figure_alt }}">
+  {% endif %}
   {% endif %}
 
   <p class="research-detail__back"><a href="{{ base_path }}/research/">&larr; Back to Research</a></p>

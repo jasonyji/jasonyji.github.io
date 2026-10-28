@@ -273,8 +273,8 @@
   margin: 1em 0 2em;
 }
 
-.page__content a.research-card,
-.archive a.research-card {
+.page__content .research-card,
+.archive .research-card {
   display: block;
   padding: 1em 1.25em;
   color: $text-color;
@@ -285,7 +285,20 @@
   border-radius: $border-radius;
   box-shadow: 0 1px 3px rgba(#000, 0.06);
   transition: box-shadow 0.2s, transform 0.2s, border-color 0.2s;
+}
 
+/* Work-in-progress cards are not links, so they get no hover lift */
+.page__content .research-card--static,
+.archive .research-card--static {
+  border-left-color: $gray;
+
+  .research-card__title {
+    color: $text-color;
+  }
+}
+
+.page__content a.research-card,
+.archive a.research-card {
   &:hover,
   &:focus {
     text-decoration: none;
@@ -322,6 +335,16 @@
   color: mix(#000, $warning-color, 30%);
   background-color: mix(#fff, $warning-color, 85%);
   border-radius: 1em;
+}
+
+.research-status--ready {
+  color: mix(#000, $success-color, 45%);
+  background-color: mix(#fff, $success-color, 82%);
+}
+
+.research-status--published {
+  color: $link-color;
+  background-color: mix(#fff, $info-color, 85%);
 }
 
 .research-detail__authors {

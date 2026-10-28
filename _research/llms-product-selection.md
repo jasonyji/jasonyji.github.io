@@ -1,8 +1,9 @@
 ---
 title: "LLMs in Product Selection for Small E-commerce"
-section: wip
-order: 1
+section: working
+order: 3
 authors: 'with <a href="https://www.shanhhuang.com/" target="_blank">Shan Huang</a>'
+status: "Ready for Submission"
 paperurl: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5822963"
 presentations: 'The early version of this work was presented at <a href="https://meetings.informs.org/wordpress/annual/?_gl=1%2A4l1ytl%2A_gcl_au%2AMjEyMDQ1MTA3NC4xNzY5NTI5NTIy" target="_blank">INFORMS Annual Meeting 2025</a>, <a href="https://novasbe.maglr.com/2026-isms-marketing-science-conference" target="_blank">INFORMS Marketing Science Conference 2026</a>.'
 figure: /images/research_images/Product_Selection.png

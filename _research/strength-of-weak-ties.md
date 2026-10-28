@@ -3,6 +3,7 @@ title: '"The Strength of Weak Ties" Varies Across Viral Channels'
 section: working
 order: 2
 authors: 'with <a href="https://www.shanhhuang.com/" target="_blank">Shan Huang</a> and <a href="https://www.yuan-yy.com/" target="_blank">Yuan Yuan</a>'
+status: "Ready for Submission"
 paperurl: "https://arxiv.org/abs/2408.03579"
 figure: /images/research_images/Weak_Tie_Novelty.png
 figure_alt: "Average marginal novelty by tie embeddedness, comparing Broadcasting (BC) and Direct Messaging (DM)"

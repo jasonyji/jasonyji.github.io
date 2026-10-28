@@ -1,6 +1,12 @@
 {% include base_path %}
+{% assign status_class = "" %}
+{% if include.paper.section == "publication" %}{% assign status_class = " research-status--published" %}{% elsif include.paper.status contains "Ready" %}{% assign status_class = " research-status--ready" %}{% endif %}
+{% if include.paper.section == "wip" %}
+<div class="research-card research-card--static">
+{% else %}
 <a class="research-card" href="{{ base_path }}{{ include.paper.url }}">
+{% endif %}
   <span class="research-card__title">{{ include.paper.title }}</span>
   <span class="research-card__authors">{{ include.paper.authors | strip_html }}</span>
-  {% if include.paper.status %}<span class="research-status">{{ include.paper.status }}</span>{% endif %}
-</a>
+  {% if include.paper.status %}<span class="research-status{{ status_class }}">{{ include.paper.status }}</span>{% endif %}
+{% if include.paper.section == "wip" %}</div>{% else %}</a>{% endif %}
