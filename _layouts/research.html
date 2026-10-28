@@ -9,8 +9,6 @@ layout: single
 
   {% if page.status %}<p><span class="research-status{% if page.section == "publication" %} research-status--published{% elsif page.status contains "Ready" %} research-status--ready{% endif %}">{{ page.status }}</span></p>{% endif %}
 
-  {% if page.presentations %}<p class="research-detail__presentations">{{ page.presentations }}</p>{% endif %}
-
   {% if page.paperurl or page.videourl %}
     <p>
       {% if page.paperurl %}<a href="{{ page.paperurl }}" class="btn" style="text-decoration: none;" target="_blank">View Paper</a>{% endif %}
@@ -25,8 +23,25 @@ layout: single
     {{ content }}
   </div>
 
+  {% for fig in page.figures %}
+    <img class="research-detail__figure" src="{{ base_path }}{{ fig.src }}" alt="{{ fig.alt }}">
+  {% endfor %}
   {% if page.figure %}
     <img class="research-detail__figure" src="{{ base_path }}{{ page.figure }}" alt="{{ page.figure_alt }}">
+  {% endif %}
+
+  {% if page.presentations %}
+  <h2>Presentations</h2>
+  <ul class="research-presentations">
+    {% for talk in page.presentations %}
+    <li>
+      <span class="research-presentations__year">{{ talk.year }}</span>
+      <span class="research-presentations__venue">{% if talk.url %}<a href="{{ talk.url }}" target="_blank">{{ talk.name }}</a>{% else %}{{ talk.name }}{% endif %}
+        {% if talk.location or talk.by_coauthor %}<span class="research-presentations__meta">{{ talk.location }}{% if talk.location and talk.by_coauthor %} · {% endif %}{% if talk.by_coauthor %}presented by co-author{% endif %}</span>{% endif %}
+      </span>
+    </li>
+    {% endfor %}
+  </ul>
   {% endif %}
   {% endif %}
 

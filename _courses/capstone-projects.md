@@ -2,6 +2,7 @@
 title: "Capstone Projects for Master Students"
 section: ta
 order: 2
+term: "Spring 2026"
 instructor: '<a href="https://www.shanhhuang.com/" target="_blank">Shan Huang</a>'
 program: "Elective Course for HKU Business School Master Students (Business Analytics and Marketing)"
 responsibilities: "Organized and led discussions between students and senior technical experts from industry; graded the final reports"

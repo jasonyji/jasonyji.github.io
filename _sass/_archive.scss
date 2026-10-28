@@ -267,34 +267,17 @@
    ========================================================================== */
 
 .research-cards {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 1em;
-  margin: 1em 0 2em;
+  margin: 0.5em 0 2em;
+  border-top: 1px solid $border-color;
 }
 
 .page__content .research-card,
 .archive .research-card {
   display: block;
-  padding: 1em 1.25em;
+  padding: 0.9em 0;
   color: $text-color;
   text-decoration: none;
-  background-color: $background-color;
-  border: 1px solid $border-color;
-  border-left: 4px solid $link-color;
-  border-radius: $border-radius;
-  box-shadow: 0 1px 3px rgba(#000, 0.06);
-  transition: box-shadow 0.2s, transform 0.2s, border-color 0.2s;
-}
-
-/* Work-in-progress cards are not links, so they get no hover lift */
-.page__content .research-card--static,
-.archive .research-card--static {
-  border-left-color: $gray;
-
-  .research-card__title {
-    color: $text-color;
-  }
+  border-bottom: 1px solid $border-color;
 }
 
 .page__content a.research-card,
@@ -302,12 +285,9 @@
   &:hover,
   &:focus {
     text-decoration: none;
-    border-color: $link-color;
-    box-shadow: 0 4px 12px rgba(#000, 0.1);
-    transform: translateY(-2px);
 
     .research-card__title {
-      color: $link-color-hover;
+      color: $link-color;
     }
   }
 }
@@ -316,35 +296,31 @@
   display: block;
   font-weight: bold;
   line-height: 1.4;
-  color: $link-color;
+  color: $text-color;
+  transition: color 0.2s;
 }
 
 .research-card__authors {
   display: block;
-  margin-top: 0.4em;
+  margin-top: 0.3em;
   font-size: $type-size-6;
   color: $gray;
 }
 
 .research-status {
   display: inline-block;
-  margin-top: 0.6em;
-  padding: 0.2em 0.7em;
+  margin-top: 0.3em;
   font-size: $type-size-7;
   font-weight: bold;
-  color: mix(#000, $warning-color, 30%);
-  background-color: mix(#fff, $warning-color, 85%);
-  border-radius: 1em;
+  color: mix(#000, $warning-color, 40%);
 }
 
 .research-status--ready {
   color: mix(#000, $success-color, 45%);
-  background-color: mix(#fff, $success-color, 82%);
 }
 
 .research-status--published {
   color: $link-color;
-  background-color: mix(#fff, $info-color, 85%);
 }
 
 .research-detail__authors {
@@ -360,6 +336,37 @@
 
 .page__content .research-detail__abstract p {
   font-size: 0.9em;
+}
+
+.research-presentations {
+  margin: 0.5em 0 1.5em;
+  padding: 0;
+  list-style: none;
+
+  li {
+    display: flex;
+    gap: 1em;
+    padding: 0.5em 0;
+    font-size: $type-size-6;
+    border-bottom: 1px solid $border-color;
+
+    &:last-child {
+      border-bottom: 0;
+    }
+  }
+}
+
+.research-presentations__meta {
+  display: block;
+  margin-top: 0.15em;
+  font-size: $type-size-7;
+  color: $gray;
+}
+
+.research-presentations__year {
+  flex: 0 0 3em;
+  font-weight: bold;
+  color: $gray;
 }
 
 .research-detail__figure {
@@ -606,31 +613,51 @@ li.awards__item {
 }
 
 /*
-   Coursework cards (static, not clickable as a whole)
+   Coursework list (same look as research entries, not clickable as a whole)
    ========================================================================== */
 
-.research-cards--grid {
-  @include breakpoint(800px) {
-    grid-template-columns: 1fr 1fr;
-  }
+/* Field labels sit above the courses as small caps so the two levels read apart */
+.page__content h3.coursework__field,
+.archive h3.coursework__field {
+  margin: 2em 0 0;
+  padding-bottom: 0.4em;
+  font-size: $type-size-7;
+  font-weight: bold;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: $link-color;
+  border-bottom: 1px solid $border-color;
 }
 
-.coursework__field {
-  margin: 1.5em 0 0;
+.coursework__field + .research-cards {
+  margin-top: 0;
+  border-top: 0;
 }
 
 .course-card {
-  padding: 1em 1.25em;
-  background-color: $background-color;
-  border: 1px solid $border-color;
-  border-left: 4px solid $link-color;
-  border-radius: $border-radius;
-  box-shadow: 0 1px 3px rgba(#000, 0.06);
+  padding: 0.65em 0;
+  border-bottom: 1px solid $border-color;
+
+  &:last-child {
+    border-bottom: 0;
+  }
+}
+
+/* Two columns on wider screens; the last row drops its divider in either column */
+.coursework__list {
+  @include breakpoint(800px) {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 2.5em;
+
+    .course-card:nth-last-child(2):nth-child(odd) {
+      border-bottom: 0;
+    }
+  }
 }
 
 .course-card__title {
   display: block;
-  font-weight: bold;
   line-height: 1.4;
 }
 
@@ -639,15 +666,12 @@ li.awards__item {
   flex-wrap: wrap;
   align-items: center;
   gap: 0.75em;
-  margin-top: 0.6em;
+  margin-top: 0.3em;
   font-size: $type-size-6;
 }
 
 .course-card__tag {
-  padding: 0.1em 0.7em;
   font-size: $type-size-7;
   font-weight: bold;
   color: $gray;
-  background-color: $lighter-gray;
-  border-radius: 1em;
 }

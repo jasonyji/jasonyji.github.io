@@ -9,7 +9,7 @@ author_profile: true
 
 {% for group in site.data.coursework %}
 <h3 class="coursework__field">{{ group.field }}</h3>
-<div class="research-cards research-cards--grid">
+<div class="research-cards coursework__list">
 {% for course in group.courses %}
   <div class="course-card">
     <span class="course-card__title">{{ course.name }}</span>

@@ -1,6 +1,6 @@
 {% include base_path %}
 <a class="research-card" href="{{ base_path }}{{ include.course.url }}">
   <span class="research-card__title">{{ include.course.title }}</span>
-  <span class="research-card__authors">Instructor: {{ include.course.instructor | strip_html }}</span>
+  <span class="research-card__authors">{% if include.course.term %}{{ include.course.term }} · {% endif %}Instructor: {{ include.course.instructor | strip_html }}</span>
   <span class="research-card__authors">{{ include.course.program }}</span>
 </a>

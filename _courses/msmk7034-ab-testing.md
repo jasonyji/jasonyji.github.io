@@ -2,6 +2,7 @@
 title: "MSMK7034 - A/B Testing in Product Management"
 section: ta
 order: 1
+term: "Fall 2025"
 instructor: '<a href="https://www.shanhhuang.com/" target="_blank">Shan Huang</a>'
 program: "Elective Course for the Master of Science in Marketing Programme"
 responsibilities: "Delivered 6 tutorials; designed and graded individual assignments and the final group project"
